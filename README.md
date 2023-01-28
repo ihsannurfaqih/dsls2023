@@ -13,7 +13,7 @@ Bagian 1 terdiri atas tahap Extract, atau pembuatan data pada database. Berikut 
 <h3><b> Bagian 2 </h3></b>
 Bagian 2 terdiri atas tahap Transform dan menjadi 2 bagian yaitu :
 
-1. Intermediate Queries
+1. [Intermediate Queries](/DE_mini_project/docs/Intermediate%20Query%20DSLS.docx)
 2. Case Study 
 
 Case study yang dipilih pada laporan ini adalah 
