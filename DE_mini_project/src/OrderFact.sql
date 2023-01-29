@@ -1,7 +1,5 @@
 -- Create Product Fact
-USE Northwind
-
-GO
+USE Northwind;
 
 CREATE VIEW OrderFact
 AS

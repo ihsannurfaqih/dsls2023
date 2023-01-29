@@ -1,6 +1,5 @@
 -- Create CustomerFact
-USE Northwind
-GO
+USE Northwind;
 
 CREATE VIEW CustomerFact
 AS
