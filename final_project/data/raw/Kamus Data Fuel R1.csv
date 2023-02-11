@@ -1,0 +1,7 @@
+Nama Column,Deskripsi
+Code Unit,Nomer unit
+EGI (Equipment Grouping Indicator),Jenis Unit
+SLOC,Tempat Penyimpanan dalam inventory system
+Jam,Waktu pengisian (24 hrs format)
+Day (Ltr),Jumlah pengisian saat shift 1 dalam satuan liter
+HM (Hours Meter),Total waktu operasional unit (sama dengan odometer di kendaraan pribadi; penunjuk jarak tempuh kendaraan)

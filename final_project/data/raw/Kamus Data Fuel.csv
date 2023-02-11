@@ -1,0 +1,13 @@
+Nama Column,Deskripsi
+Plant,Code Area
+Material,Jenis Material dalam inventory system
+Material Description,Deskripsi material
+Storage Location,Tempat Penyimpanan dalam inventory system
+Material Document,Dokumen material
+Item,-
+Posting Date,Tanggal refueling
+Document Date,Tanggal input di SAP
+Qty in Un. of Entry,Jumlah Solar keluar
+Unit of Entry,Satuan
+Order,Nomer Unit
+Document Header Text,Shift pengisian
